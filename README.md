@@ -7,7 +7,7 @@
 
 ### Mise en évidence expérimentale : Le rôle de la photosynthèse
 
-Pour vérifier notre hypothèse, nous avons mesuré la formation d'agrégats (cellules adsorbées à l'interface) en présence et en absence de **DCMU**, un inhibiteur puissant de la photosynthèse.
+Pour vérifier notre hypothèse, nous avons mesuré la formation d'agrégats (groupes de cellules adsorbées à l'interface) en présence et en absence de **DCMU**, un inhibiteur de la photosynthèse (bloqueur du photosystème II).
 
 <img width="797" height="603" alt="Capture d’écran 2026-03-26 à 18 52 00" src="https://github.com/user-attachments/assets/38b403e1-bba2-4e3a-9ea6-5bc1904de080" />
 *Évolution temporelle de l'adsorption des micro-algues à l'interface liquide-vapeur.*
