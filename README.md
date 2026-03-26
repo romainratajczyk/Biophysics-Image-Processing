@@ -10,12 +10,12 @@
 Pour vérifier notre hypothèse, nous avons mesuré la formation d'agrégats (groupes de cellules adsorbées à l'interface) en présence et en absence de **DCMU**, un inhibiteur de la photosynthèse (bloqueur du photosystème II).
 
 <img width="797" height="603" alt="Capture d’écran 2026-03-26 à 18 52 00" src="https://github.com/user-attachments/assets/38b403e1-bba2-4e3a-9ea6-5bc1904de080" />
-*Évolution temporelle de l'adsorption des micro-algues à l'interface liquide-vapeur.*
 
 **Analyse du graphique :**
 
-* 🔵 **Sans DCMU (Condition contrôle) :** La courbe reste plate. Les micro-algues nagent librement dans le volume et ne s'accumulent pas à l'interface.
-* 🔴 **Avec DCMU (Inhibition de la photosynthèse) :** La courbe augmente drastiquement. Le blocage de l'activité photosynthétique déclenche une adsorption massive et rapide des cellules à la surface.
+* 🔵 **Sans DCMU (Condition de contrôle) :** La courbe augmente drastiquement. Adsorption massive et rapide des cellules à la surface.
+* 🔴 **Avec DCMU (Inhibition de la photosynthèse) :** La courbe reste plate. Les micro-algues nagent librement dans le volume et ne s'accumulent pas à l'interface. Sans activité photosynthétique, pas d'adsoprtion. 
 
-**Conclusion :** Cette rupture de dynamique prouve directement notre hypothèse : **l'activité photosynthétique régule activement l'adsorption** des *Chlamydomonas reinhardtii*. C'est la perte de cette activité qui contraint les algues à se fixer à l'interface liquide-vapeur.
-<img width="797" height="603" alt="Capture d’écran 2026-03-26 à 18 52 00" src="https://github.com/user-attachments/assets/38b403e1-bba2-4e3a-9ea6-5bc1904de080" />
+**Conclusion :** Cela renforce notre hypothèse selon laquelle **l'activité photosynthétique est nécessaire pour l'adsorption** des *Chlamydomonas reinhardtii*. La perte de cette activité photosynthétique empêche toute adsorption à l'interface. D'autres expériences corroborant ces résultats ont été menées, ainsi que le développement d'un protocole d'observation optimal de la micro-algue. 
+
+## Plus de précisions dans le rapport CNRS_Biophysics_Internship_Report. 
